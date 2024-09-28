@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital@1&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Roboto+Mono&family=Shantell+Sans:ital@1&family=Tilt+Neon&family=Ubuntu&display=swap');
+.name{
+    font-family: 'Shantell Sans', cursive;
+
+}
+
+
+.para{
+    margin-top: 70px;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 30pt;
+
+}
+
+*{
+    background-color: #EDF1D6;
+}
+
+.container{
+    padding-top: 50px;
+}

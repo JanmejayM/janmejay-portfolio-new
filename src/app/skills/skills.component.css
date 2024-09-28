@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada&family=Lobster&family=Montserrat:wght@500&display=swap');
+
+span,li{
+    font-family: 'Labrada', serif;
+
+}
+span{
+    font-size: 20pt;
+}
+
+li{
+
+    font-size: 14pt;
+}

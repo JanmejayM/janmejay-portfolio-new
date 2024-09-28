@@ -1,0 +1,30 @@
+.h1{
+        font-family: 'Labrada', serif;
+    
+    
+}
+
+img{
+    max-height: 200px;
+    max-width: 200px;
+
+    min-height: 180px;
+    min-width: 100px;
+}
+
+.card{
+text-align: center;
+
+max-height: 400px;
+min-width: 200px;
+
+}
+
+.col-sm-4{
+    padding: 10px;
+}
+
+p{
+    font-family: 'Labrada', serif;
+
+}

@@ -1,0 +1,21 @@
+
+
+/*
+   Multicoloured Hover Variations
+*/
+
+
+#social-gh:hover {
+    color: #181819;
+}
+#social-li:hover {
+    color: #0f0fe9;
+}
+#social-em:hover {
+    color: #f39c12;
+}
+
+*{
+    background-color: #EDF1D6;
+}
+
